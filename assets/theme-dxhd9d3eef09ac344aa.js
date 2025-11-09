@@ -1,0 +1,1 @@
+function applyTheme(){if(window.ui){window.ui("theme","#328033");window.ui("mode","auto");}else{setTimeout(applyTheme,50);}}applyTheme();
